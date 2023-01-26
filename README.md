@@ -22,15 +22,16 @@
 ### My Professional Tech Stack
 
 * Programming Languages
-  * Python
-  | Stage | libraries |
-  | --- | --- |
-  | Data Processing | pandas, numpy, pandera, dask |
-  | Visualization | matplotlib, seaborn, plotly |
-  | Spatial Viz | folium, leaflet |
-  | Statistics | scipy, statsmodels |
-  | Modeling | scikit-learn, TensorFlow, PyTorch |
-  | NLP | gensim, nltk, scrappy, t-sne |
+  * Python <br>
+ | Stage | libraries |
+ | --- | --- |
+ | Data Processing | pandas, numpy, pandera, dask |
+ | Visualization | matplotlib, seaborn, plotly |
+ | Spatial Viz | folium, leaflet |
+ | Statistics | scipy, statsmodels |
+ | Modeling | scikit-learn, TensorFlow, PyTorch |
+ | NLP | gensim, nltk, scrappy, t-sne |
+ 
   * SQL (PostgreSQL / MySQL / T-SQL / HiveQL) 
   * HTML5
   * CSS3 (Tailwind)
