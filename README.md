@@ -26,6 +26,7 @@
  | Type | libraries |
  | --- | --- |
  | Data Processing | pandas, numpy, pandera, dask |
+ | Web Scraping / API | requests, urllib, pathlib, BeautifulSoup, Selenium |
  | Visualization | matplotlib, seaborn, plotly |
  | Spatial Maps | folium, leaflet,geopandas,geopy |
  | Statistics | scipy, statsmodels |
@@ -46,7 +47,6 @@
   * Git Bash / GitLab
   * RStudio
   * Tableau / Power BI
-  * UiPath
   * Power Automate
 
 * Database Proficiency
