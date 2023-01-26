@@ -21,8 +21,8 @@
 ---
 ### My Professional Tech Stack
 
-* Programming Languages
-  > Python </br>
+#### Programming Languages
+ ### Python
  | Stage | libraries |
  | --- | --- |
  | Data Processing | pandas, numpy, pandera, dask |
