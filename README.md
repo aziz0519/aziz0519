@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello World! I'm Aziz Budiman from Sunny Singapore 👋
+
+* Thank you for visiting my Github portfolio. I am former Maths and Science educator turn Data Analytics professional. I have made the switch about 7 years ago and I enjoying every single step of my career journey
+* My interests lies towards applications of Computer Vision and Natural Language Processing into real-world use cases in major industries. The rise of AI platform such as ChapGPT and Jasper.AI have been to be a potential gamechanger in daily work productivity
+* I'm currently open to opportunities in the Data Science field and constantly updating this portfolio with new content. I have recently developed two projects namely a Chat GPT clone using Vanilla JS and YouTube Clone using ReactJS and Tailwind CSS
+
+---
+
 
 <!--
 **aziz0519/aziz0519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
