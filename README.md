@@ -28,12 +28,15 @@
  | Type | libraries |
  | --- | --- |
  | Data Processing | pandas, numpy, pandera, dask |
+ | Big Data | pyspark |
  | Web Scraping / API | requests, urllib, pathlib, BeautifulSoup, Selenium |
  | Visualization | matplotlib, seaborn, plotly |
- | Spatial Maps | folium, leaflet,geopandas,geopy |
+ | Spatial Maps | folium,leaflet,geopandas,geopy |
  | Statistics | scipy, statsmodels |
- | Modeling | scikit-learn, TensorFlow, PyTorch |
- | NLP | gensim, nltk, scrappy, t-sne |
+ | Modeling | scikit-learn,Keras,TensorFlow, PyTorch |
+ | Computer Vision | opencv |
+ | NLP | gensim, nltk, scrappy, glove |
+ 
  
   * SQL (PostgreSQL / MySQL / T-SQL / HiveQL) 
   * HTML5
