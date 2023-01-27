@@ -10,13 +10,13 @@
 
 | Project Name | Repo |
 | ------ | ---- |
-| Project White Paper | (🔗)(https://github.com/athkpro/ProjectWhitePaper) |
-| Prediction Accessible and Affordable AirBnB properties | 🔗(https://github.com/aziz0519/Advanced-Data-Science-Capstone-Project) |
-| Transfer Learning using TensorFlow Hub | 🔗(https://github.com/aziz0519/Transfer-Learning-NLP-TensorFlow-Hub) |
-| Image Detection Using Siamese Networks | 🔗(https://github.com/aziz0519/Deep-Learning-with-PyTorch-Siamese-Networks) |
-| ChapGPT Clone Using Vanilla JS | 🔗(https://github.com/aziz0519/Codex-Chatbot-Project) |
-| YouTube Clone Using React JS and Tailwind CSS | 🔗(https://github.com/aziz0519/YouTube-Clone-Project-ReactJS) |
-| HR Analytics Dashboard in Tableau | 🔗(https://public.tableau.com/app/profile/azizbk1919/viz/HRDashboard2_15933573880420/Overview) |
+| Project White Paper | [🔗](https://github.com/athkpro/ProjectWhitePaper) |
+| Prediction Accessible and Affordable AirBnB properties | [🔗](https://github.com/aziz0519/Advanced-Data-Science-Capstone-Project) |
+| Transfer Learning using TensorFlow Hub | [🔗](https://github.com/aziz0519/Transfer-Learning-NLP-TensorFlow-Hub) |
+| Image Detection Using Siamese Networks | [🔗](https://github.com/aziz0519/Deep-Learning-with-PyTorch-Siamese-Networks) |
+| ChapGPT Clone Using Vanilla JS | [🔗](https://github.com/aziz0519/Codex-Chatbot-Project) |
+| YouTube Clone Using React JS and Tailwind CSS | [🔗](https://github.com/aziz0519/YouTube-Clone-Project-ReactJS) |
+| HR Analytics Dashboard in Tableau | [🔗](https://public.tableau.com/app/profile/azizbk1919/viz/HRDashboard2_15933573880420/Overview) |
 
 
 
