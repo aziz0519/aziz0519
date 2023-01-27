@@ -1,6 +1,6 @@
 ### Hello World! I'm Aziz Budiman from Sunny Singapore 👋
 
-* Thank you for visiting my Github portfolio. I am former a Maths and Science teacher turn Data Analytics professional. I have worked at major companies such as DBS Bank and HP Inc and leveraged my analytics skills with data in various forms.
+* Thank you for visiting my Github portfolio. I am former a Maths and Science teacher turn Data Analytics professional. I have worked at major companies in banking and FMCG sectors and have leveraged my analytics skills with data in various forms.
 * My interests lies towards applications of Computer Vision and Natural Language Processing into real-world use cases at major industries. The rise of AI platform such as ChapGPT and Jasper.AI have been a potential gamechanger in daily work productivity
 * I'm currently open to opportunities in the Data Science field and constantly updating this portfolio with new content. I have recently completed an advanced level specialization from Coursera on Practical Data Science in the AWS Cloud by deeplearning.ai and AWS
 * I'm expanding my programming skills to other areas such as front-end web applications using the MERN Stack as well as DevOps tools such as Jenkins, Docker and Kubernetes. I'm also developing my proficiency in leveraging low-code tools such as UiPath and Power Automate for Robotic Process Automation (RPA) to automate manual and repetitive tasks on daily office applcations
