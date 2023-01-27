@@ -11,7 +11,7 @@
 | Project Name | Repo |
 | ------ | ---- |
 | Project White Paper | [🔗](https://github.com/athkpro/ProjectWhitePaper) |
-| Prediction Accessible and Affordable AirBnB properties | [🔗](https://github.com/aziz0519/Advanced-Data-Science-Capstone-Project) |
+| Prediction of Accessible and Affordable SG AirBnB properties | [🔗](https://github.com/aziz0519/Advanced-Data-Science-Capstone-Project) |
 | Transfer Learning using TensorFlow Hub | [🔗](https://github.com/aziz0519/Transfer-Learning-NLP-TensorFlow-Hub) |
 | Image Detection Using Siamese Networks | [🔗](https://github.com/aziz0519/Deep-Learning-with-PyTorch-Siamese-Networks) |
 | ChapGPT Clone Using Vanilla JS | [🔗](https://github.com/aziz0519/Codex-Chatbot-Project) |
