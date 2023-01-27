@@ -38,7 +38,7 @@
   * SQL (PostgreSQL / MySQL / T-SQL / HiveQL) 
   * HTML5
   * CSS3 (Tailwind CSS)
-  * JavaScript (React JS/ Redux/ React-Native)
+  * JavaScript (React JS/ Redux/ React-Native) (Learning in Progress 💪)
   
 
 * Software Proficiency
@@ -50,7 +50,7 @@
   * RStudio
   * Tableau / Power BI
   * Jira / Confluence 
-  * Power Automate
+  * Power Automate (Learning in Progress 💪)
 
 * Database Proficiency
   * AWS Redshift
