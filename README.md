@@ -33,10 +33,10 @@
  | Visualization | matplotlib, seaborn, plotly |
  | Spatial Maps | folium,leaflet,geopandas,geopy |
  | Statistics | scipy, statsmodels |
- | Modeling | scikit-learn,Keras,TensorFlow, PyTorch |
- | Computer Vision | opencv |
- | NLP | gensim, nltk, scrappy, glove |
- 
+ | Modeling | scikit-learn,Keras,TensorFlow,PyTorch |
+ | Computer Vision | opencv, Tesseract |
+ | NLP | gensim, nltk, glove, textblob |
+ | Web Apps | Flask, Django, FastAPI |
  
   * SQL (PostgreSQL / MySQL / T-SQL / HiveQL) 
   * HTML5
@@ -47,11 +47,13 @@
 * Software Proficiency
   * Visual Studio Code
   * Cloudera Data Science Workbench
-  * Ananconda Jupyter
+  * Eclipse Theia
+  * Ananconda Jupyter / Google Colab
   * Airflow 
   * Git Bash / Powershell
-  * Tableau / Power BI
+  * Tableau / Power BI / Apache Superset
   * Jira / Confluence 
+  * Postman
   * Power Automate (Learning in Progress 💪)
   * Docker / Kubernetes (Learning in Progress 💪)
 
