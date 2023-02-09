@@ -10,8 +10,8 @@
 
 | Project Name | Repo |
 | ------ | ---- |
-| Prediction of cryptocurrency price movement using T-SNE and LDA | [🔗](https://github.com/athkpro/ProjectWhitePaper) |
-| Prediction of SG AirBnB properties using XGBoost Regression Model | [🔗](https://github.com/aziz0519/airbnbpropertypricing) |
+| Prediction of cryptocurrency price movement using NLP of Token Official Whitepapers | [🔗](https://github.com/athkpro/ProjectWhitePaper) |
+| Prediction of SG AirBnB property price using XGBoost Regression Model | [🔗](https://github.com/aziz0519/airbnbpropertypricing) |
 | Transfer Learning using TensorFlow Hub | [🔗](https://github.com/aziz0519/Transfer-Learning-NLP-TensorFlow-Hub) |
 | Image Detection Using Siamese Networks | [🔗](https://github.com/aziz0519/Deep-Learning-with-PyTorch-Siamese-Networks) |
 | ChatGPT Clone Using Vanilla JS | [🔗](https://github.com/aziz0519/Codex-Chatbot-Project) |
