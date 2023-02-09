@@ -41,7 +41,7 @@
   * SQL (PostgreSQL / MySQL / T-SQL / HiveQL / GraphQL)
   * R
   * Powershell / Unix
-  * LaTex / KaTex $e^\pii + 1 = 0$
+  * LaTex / KaTex
   * HTML5
   * CSS3 (Tailwind CSS) (Learning in Progress 💪)
   * JavaScript (React JS/ Next JS/ MERN) (Learning in Progress 💪)
