@@ -38,7 +38,10 @@
  | NLP | gensim, nltk, glove, textblob |
  | Web Apps | Flask, Django, FastAPI |
  
-  * SQL (PostgreSQL / MySQL / T-SQL / HiveQL) 
+  * SQL (PostgreSQL / MySQL / T-SQL / HiveQL / GraphQL)
+  * R
+  * Powershell / Unix
+  * LaTex / KaTex $e^\pi + 1 = 0$
   * HTML5
   * CSS3 (Tailwind CSS) (Learning in Progress 💪)
   * JavaScript (React JS/ Next JS/ MERN) (Learning in Progress 💪)
