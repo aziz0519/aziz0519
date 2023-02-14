@@ -1,8 +1,8 @@
 ### Hello World! I'm Aziz Budiman from Sunny Singapore 👋
 
 * Thank you for visiting my Github portfolio. I am a former Maths and Science teacher turned Data Analytics professional. I have worked at major companies in banking and consumer tech sectors and have leveraged key skills in Python, SQL and BI tools with enterprise level data
-* My interests lies towards applications of Computer Vision and Natural Language Processing into real-world use cases at major industries. The rise of AI platform such as ChatGPT and Copy.AI have been a potential gamechanger in daily work productivity
-* I'm currently open to opportunities in the Data Science field and constantly updating this portfolio with new content. I have recently completed an Advanced level specialization from Coursera on Practical Data Science in the AWS Cloud to gain exposure to AWS Data Science Stack
+* My interests lies towards applications of Artificial Intelligence into real-world use cases at major industries. The rise of AI platforms such as ChatGPT, Otter.ai and copy.ai have been a potential gamechanger in daily work productivity
+* I'm currently open to opportunities in the Data Science and Analytics field and constantly updating this portfolio with new content. I have recently completed an Advanced level specialization from Coursera on Practical Data Science in the AWS Cloud to gain exposure to AWS Data Science ecosystem
 * I'm expanding my programming skills to other areas such as front-end web applications using the MERN Stack as well as DevOps tools such as Jenkins, Docker and Kubernetes. I'm also developing my proficiency in leveraging low-code tools such as Power Automate for Robotic Process Automation (RPA) to automate manual and repetitive tasks on daily office applications
 
 ---
@@ -29,7 +29,7 @@
  | --- | --- |
  | Data Processing | pandas, numpy, pandera, dask |
  | Big Data | pyspark |
- | Web Scraping / API | requests, urllib, pathlib, BeautifulSoup, Selenium |
+ | Web Scraping / API | requests, urllib, pathlib, BeautifulSoup, Selenium, tweepy, kaggle API |
  | Visualization | matplotlib, seaborn, plotly |
  | Spatial Maps | folium,leaflet,geopandas,geopy |
  | Statistics | scipy, statsmodels |
@@ -41,10 +41,10 @@
   * SQL (PostgreSQL / MySQL / T-SQL / HiveQL / GraphQL)
   * R
   * Powershell / Unix
-  * LaTex / KaTex
+  * LaTex
   * HTML5
-  * CSS3 (Tailwind CSS) (Learning in Progress 💪)
-  * JavaScript (React JS/ Next JS/ MERN) (Learning in Progress 💪)
+  * CSS3 (Tailwind CSS) 
+  * JavaScript (ReactJS/NextJS/React-Native/ViteJS/MERN) (Learning in Progress 💪)
   
 
 * Software Proficiency
