@@ -14,7 +14,7 @@
 | Prediction of SG AirBnB property price using XGBoost Regression Model | [🔗](https://github.com/aziz0519/airbnbpropertypricing) |
 | Transfer Learning using TensorFlow Hub | [🔗](https://github.com/aziz0519/Transfer-Learning-NLP-TensorFlow-Hub) |
 | Image Detection Using Siamese Networks | [🔗](https://github.com/aziz0519/Deep-Learning-with-PyTorch-Siamese-Networks) |
-| ChatGPT Clone Using Vanilla JS | [🔗](https://github.com/aziz0519/Codex-Chatbot-Project) |
+| ChatGPT Clone Using Vanilla JS and OpenAI API | [🔗](https://github.com/aziz0519/Codex-Chatbot-Project) |
 | YouTube Clone Using React JS and Rapid API | [🔗](https://github.com/aziz0519/YouTube-Clone-Project-ReactJS) |
 | HR Analytics Dashboard in Tableau | [🔗](https://public.tableau.com/app/profile/azizbk1919/viz/HRDashboard2_15933573880420/Overview) |
 
