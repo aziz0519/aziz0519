@@ -57,7 +57,7 @@
   * Git Bash / Powershell
   * Tableau / Power BI / Apache Superset
   * Jira / Confluence 
-  * Postman
+  * Postman API
   * Power Automate (Learning in Progress 💪)
   * Docker / Kubernetes (Learning in Progress 💪)
 
