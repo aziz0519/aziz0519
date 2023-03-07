@@ -1,4 +1,4 @@
-### Hello World! I'm Aziz Budiman from Sunny Singapore 👋
+### Hello World! I'm Aziz Budiman from sunny Singapore 👋
 
 * Thank you for visiting my Github portfolio. I am a former Maths and Science teacher turned Data Analytics professional. I have worked at major companies in banking and consumer tech sectors and have leveraged key skills in Python, SQL and BI tools with enterprise level data
 * My interests lies towards applications of Artificial Intelligence into real-world use cases at major industries. The rise of AI platforms such as ChatGPT, Otter.ai and copy.ai have been a potential gamechanger in daily work productivity
@@ -22,7 +22,7 @@
 
 
 ---
-### My Professional Tech Stack
+### My Professional and Freelance Tech Stack
 
 #### Programming Languages
  ### Python
@@ -45,27 +45,27 @@
   * LaTex
   * HTML5
   * CSS3 (Tailwind CSS) 
-  * JavaScript (ReactJS/NextJS/React-Native/ViteJS/MERN) (Learning in Progress 💪)
+  * JavaScript / TypeScript (Next.js)
   
 
 * Software Proficiency
   * Visual Studio Code
   * Cloudera Data Science Workbench
-  * Eclipse Theia
-  * Anaconda Jupyter / Google Colab
+  * Anaconda Jupyter / Google Colab / Spyder
   * RStudio
   * Airflow 
   * Git Bash / Powershell
   * Tableau / Power BI / Apache Superset
   * Jira / Confluence 
-  * Power Automate (Learning in Progress 💪)
-  * Docker / Kubernetes (Learning in Progress 💪)
+  * Power Automate 
+  * Docker / Kubernetes 
 
-* Database Proficiency
+* Database Proficiency (SQL / NoSQL)
   * AWS Redshift
   * Apache Hive
   * PrestoDB
   * Snowflake
+  * MongoDB
 
 * Cloud Computing Proficiency
   * AWS (Redshift/ Athena / EC2 / S3 / SageMaker)
