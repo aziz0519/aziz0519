@@ -12,7 +12,6 @@
 | ------ | ---- |
 | Prediction of cryptocurrency price movement using NLP of Token Official Whitepapers | [🔗](https://github.com/athkpro/ProjectWhitePaper) |
 | Prediction of SG AirBnB property price using XGBoost Regression Model | [🔗](https://github.com/aziz0519/airbnbpropertypricing) |
-| Image Detection Using Siamese Networks | [🔗](https://github.com/aziz0519/Deep-Learning-with-PyTorch-Siamese-Networks) |
 | End-to-End Model Deployment using Spark ML | [🔗](https://github.com/aziz0519/sparkml-model-deployment) |
 | Web3 Crypto Exchange Decentralised App | [🔗](https://github.com/aziz0519/cryto-exchange-dapp-project) |
 | ChatGPT Clone Using Vanilla JS and OpenAI API | [🔗](https://github.com/aziz0519/Codex-Chatbot-Project) |
