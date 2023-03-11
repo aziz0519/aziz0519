@@ -14,7 +14,7 @@
 | Prediction of SG AirBnB property price using XGBoost Regression Model | [🔗](https://github.com/aziz0519/airbnbpropertypricing) |
 | Image Detection Using Siamese Networks | [🔗](https://github.com/aziz0519/Deep-Learning-with-PyTorch-Siamese-Networks) |
 | End-to-End Model Deployment using Spark ML | [🔗](https://github.com/aziz0519/sparkml-model-deployment) |
-| Web3 Crypto Exchange Decentralised App | [🔗](https://github.com/aziz0519/crypto-exchange-dapp-project) |
+| Web3 Crypto Exchange Decentralised App | [🔗](https://github.com/aziz0519/cryto-exchange-dapp-project) |
 | ChatGPT Clone Using Vanilla JS and OpenAI API | [🔗](https://github.com/aziz0519/Codex-Chatbot-Project) |
 | E-Commerce Website Using Sanity CMS and Stripe API | [🔗](https://github.com/aziz0519/ecommerce_project_sanity_stripe) |
 | YouTube Clone Using React JS and Rapid API | [🔗](https://github.com/aziz0519/YouTube-Clone-Project-ReactJS) |
