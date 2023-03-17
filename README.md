@@ -25,7 +25,7 @@
 ### My Professional and Freelance Tech Stack
 
 #### Programming and Scripting Languages
- [![My Skills](https://skillicons.dev/icons?i=sql,py,r,latex,powershell,matlab)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=py,r,latex,powershell,matlab)](https://skillicons.dev)
 
 #### Front End Development Frameworks
  [![My Skills](https://skillicons.dev/icons?i=html,js,css,react,nextjs,tailwind,fastapi,django,flask&perline=3)](https://skillicons.dev)
