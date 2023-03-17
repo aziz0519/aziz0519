@@ -25,7 +25,7 @@
 ### My Professional and Freelance Tech Stack
 
 #### Programming and Scripting Languages
- [![My Skills](https://skillicons.dev/icons?i= sql,py,r,powershell)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=sql,py,r,powershell)](https://skillicons.dev)
   
 
 * Software Proficiency
@@ -41,7 +41,7 @@
   * Docker / Kubernetes 
 
 * Database Proficiency (SQL / NoSQL)
- [![My Skills](https://skillicons.dev/icons?i= mysql,postgres,mongodb,js)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,js)](https://skillicons.dev)
 
 * Cloud Computing Proficiency
- [![My Skills](https://skillicons.dev/icons?i= aws,ibm)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=aws,ibm)](https://skillicons.dev)
