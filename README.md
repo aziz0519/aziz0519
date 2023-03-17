@@ -28,7 +28,7 @@
  [![My Skills](https://skillicons.dev/icons?i=py,r,latex,powershell,matlab)](https://skillicons.dev)
 
 #### Front End Development Frameworks
- [![My Skills](https://skillicons.dev/icons?i=html,js,css,react,nextjs,tailwind,fastapi,django,flask&perline=3)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,js,css,react,nextjs,tailwind,fastapi,django,flask,nodejs,express&perline=3)](https://skillicons.dev)
  
 #### Application Deployment Platforms
  [![My Skills](https://skillicons.dev/icons?i=netlify,vercel)](https://skillicons.dev)
