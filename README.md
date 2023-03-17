@@ -25,19 +25,25 @@
 ### My Professional and Freelance Tech Stack
 
 #### Programming and Scripting Languages
- [![My Skills](https://skillicons.dev/icons?i=sql,py,r,powershell)](https://skillicons.dev)
+---
+ [![My Skills](https://skillicons.dev/icons?i=sql,py,r,latex,powershell,matlab)](https://skillicons.dev)
 
 #### Front End Development Frameworks
- [![My Skills](https://skillicons.dev/icons?i=react,nextjs,fastapi,django,flask)](https://skillicons.dev)
+---
+ [![My Skills](https://skillicons.dev/icons?i=html,js,css,react,nextjs,tailwind,fastapi,django,flask&perline=3)](https://skillicons.dev)
  
 #### Application Deployment Platforms
+---
  [![My Skills](https://skillicons.dev/icons?i=netlify,vercel)](https://skillicons.dev)
 
 #### Software Proficiency
- [![My Skills](https://skillicons.dev/icons?i=vscode,git,docker,eclipse)](https://skillicons.dev)
+---
+ [![My Skills](https://skillicons.dev/icons?i=vscode,git,docker,kubernetes)](https://skillicons.dev)
 
 #### Database Proficiency (SQL / NoSQL)
- [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,js)](https://skillicons.dev)
+---
+ [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,)](https://skillicons.dev)
 
 #### Cloud Computing Proficiency
- [![My Skills](https://skillicons.dev/icons?i=aws,ibm)](https://skillicons.dev)
+---
+ [![My Skills](https://skillicons.dev/icons?i=aws,gcp)](https://skillicons.dev)
