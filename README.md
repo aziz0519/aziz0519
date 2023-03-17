@@ -24,28 +24,8 @@
 ---
 ### My Professional and Freelance Tech Stack
 
-#### Programming Languages
- ### Python
- | Type | libraries |
- | --- | --- |
- | Data Processing | pandas, numpy, pandera, dask |
- | Big Data | pyspark |
- | Web Scraping / API | requests, urllib, pathlib, BeautifulSoup, Selenium, tweepy, kaggle API |
- | Visualization | matplotlib, seaborn, plotly |
- | Spatial Maps | folium,leaflet,geopandas,geopy |
- | Statistics | scipy, statsmodels |
- | Modeling | scikit-learn,Keras,TensorFlow,PyTorch |
- | Computer Vision | opencv, Tesseract |
- | NLP | gensim, nltk, glove, textblob |
- | Web Apps | Flask, Django, FastAPI, Streamlit |
- 
-  * SQL (PostgreSQL / MySQL / T-SQL / HiveQL / GraphQL)
-  * R
-  * Powershell / Unix
-  * LaTex
-  * HTML5
-  * CSS3 (Tailwind CSS) 
-  * JavaScript / TypeScript (Next.js)
+#### Programming and Scripting Languages
+ [![My Skills](https://skillicons.dev/icons?i= sql,py,r,powershell)](https://skillicons.dev)
   
 
 * Software Proficiency
@@ -61,12 +41,7 @@
   * Docker / Kubernetes 
 
 * Database Proficiency (SQL / NoSQL)
-  * AWS Redshift
-  * Apache Hive
-  * PrestoDB
-  * Snowflake
-  * MongoDB
+ [![My Skills](https://skillicons.dev/icons?i= mysql,postgres,mongodb,js)](https://skillicons.dev)
 
 * Cloud Computing Proficiency
-  * AWS (Redshift/ Athena / EC2 / S3 / SageMaker)
-  * IBM Data Science Experience (DSX)
+ [![My Skills](https://skillicons.dev/icons?i= aws,ibm)](https://skillicons.dev)
