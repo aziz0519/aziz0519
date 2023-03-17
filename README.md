@@ -26,22 +26,18 @@
 
 #### Programming and Scripting Languages
  [![My Skills](https://skillicons.dev/icons?i=sql,py,r,powershell)](https://skillicons.dev)
-  
 
-* Software Proficiency
-  * Visual Studio Code
-  * Cloudera Data Science Workbench
-  * Anaconda Jupyter / Google Colab / Spyder
-  * RStudio
-  * Airflow 
-  * Git Bash / Powershell
-  * Tableau / Power BI / Apache Superset
-  * Jira / Confluence 
-  * Power Automate 
-  * Docker / Kubernetes 
+#### Front End Development Frameworks
+ [![My Skills](https://skillicons.dev/icons?i=react,nextjs,fastapi,django,flask)](https://skillicons.dev)
+ 
+#### Application Deployment Platforms
+ [![My Skills](https://skillicons.dev/icons?i=netlify,vercel)](https://skillicons.dev)
 
-* Database Proficiency (SQL / NoSQL)
+#### Software Proficiency
+ [![My Skills](https://skillicons.dev/icons?i=vscode,git,docker,eclipse)](https://skillicons.dev)
+
+#### Database Proficiency (SQL / NoSQL)
  [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,js)](https://skillicons.dev)
 
-* Cloud Computing Proficiency
+#### Cloud Computing Proficiency
  [![My Skills](https://skillicons.dev/icons?i=aws,ibm)](https://skillicons.dev)
