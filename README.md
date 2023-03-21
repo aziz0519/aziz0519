@@ -5,6 +5,9 @@
 * I'm currently open to opportunities in the Data Science and Analytics field and constantly updating this portfolio with new content. I have recently completed an Advanced level specialization from Coursera on Practical Data Science in the AWS Cloud to gain exposure to AWS Data Science ecosystem
 * I'm expanding my programming skills to other areas such as front-end web applications using the MERN Stack as well as DevOps tools such as Jenkins, Docker and Kubernetes. I'm also developing my proficiency in leveraging low-code tools such as Power Automate for Robotic Process Automation (RPA) to automate manual and repetitive tasks on daily office applications
 
+#### Add me on LinkedIn! 
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/azizbudiman)
+
 ---
 ### Portfolio
 
