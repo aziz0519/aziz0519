@@ -32,7 +32,7 @@
  [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis)](https://skillicons.dev)
 
 #### Programming and Scripting Languages
- [![My Skills](https://skillicons.dev/icons?i=py,r,latex,powershell,rust)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=py,r,latex,powershell,go)](https://skillicons.dev)
  
 #### Python Libraries
  [![My Skills](https://skillicons.dev/icons?i=selenium,pytorch,tensorflow)](https://skillicons.dev)
