@@ -41,7 +41,7 @@
  [![My Skills](https://skillicons.dev/icons?i=aws,gcp)](https://skillicons.dev)
 
 #### Front End Development Frameworks
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,,ts,react,nextjs,tailwind,fastapi,django,flask,nodejs,express&perline=4)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,js,,ts,react,nextjs,tailwind,materialui,fastapi,django,flask,nodejs,express&perline=4)](https://skillicons.dev)
  
 #### Application Deployment Platforms
  [![My Skills](https://skillicons.dev/icons?i=netlify,vercel)](https://skillicons.dev)
