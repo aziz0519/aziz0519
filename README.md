@@ -8,7 +8,7 @@
 #### Add me on LinkedIn! 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/azizbudiman)
 
-
+![](https://komarev.com/ghpvc/?username=aziz0519)
 ---
 ### Portfolio
 
