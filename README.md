@@ -7,7 +7,7 @@
 
 #### Add me on LinkedIn! 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/azizbudiman)
-[https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white](http://www.medium.com/@azizbudiman)
+[!(https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](http://www.medium.com/@azizbudiman)
 
 ![](https://komarev.com/ghpvc/?username=aziz0519)
 ---
