@@ -7,6 +7,7 @@
 
 #### Add me on LinkedIn! 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/azizbudiman)
+[https://camo.githubusercontent.com/30f8981da04ac211bea0a078a647554510a5b252a56d51c1228826f3c6f6d25f/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65632f4d656469756d5f6c6f676f5f4d6f6e6f6772616d2e737667](http://www.medium.com/@azizbudiman)
 
 ![](https://komarev.com/ghpvc/?username=aziz0519)
 ---
