@@ -5,7 +5,7 @@
 * I'm currently open to opportunities in the Data Science and Analytics field and constantly updating this portfolio with new content. I have recently completed an Advanced level specialization from Coursera on Practical Data Science in the AWS Cloud to gain exposure to AWS Data Science ecosystem
 * I'm expanding my programming skills to other areas such as front-end web applications using the MERN Stack as well as DevOps tools such as Jenkins, Docker and Kubernetes. I'm also developing my proficiency in leveraging low-code tools such as Power Automate for Robotic Process Automation (RPA) to automate manual and repetitive tasks on daily office applications
 
-#### Add me on LinkedIn! 
+#### Follow me on LinkedIn and Medium! 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/azizbudiman)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](http://www.medium.com/@azizbudiman)
 
@@ -41,11 +41,6 @@
 #### Cloud Computing Proficiency
  [![My Skills](https://skillicons.dev/icons?i=aws,gcp)](https://skillicons.dev)
 
-#### Front End Development Frameworks
- [![My Skills](https://skillicons.dev/icons?i=html,css,js,,ts,react,nextjs,vite,tailwind,materialui,fastapi,django,flask,nodejs,express&perline=4)](https://skillicons.dev)
- 
-#### Application Deployment Platforms
- [![My Skills](https://skillicons.dev/icons?i=netlify,vercel)](https://skillicons.dev)
 
 #### IDE, Version Control and DevOps
  [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,git,jenkins,docker,kubernetes&perline=3)](https://skillicons.dev)
