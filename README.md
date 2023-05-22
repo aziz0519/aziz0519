@@ -11,6 +11,7 @@
 #### Let's connect on LinkedIn and Medium! 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azizbudiman/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](http://www.medium.com/@azizbudiman)
+![Twitter Follow](https://img.shields.io/twitter/follow/aziz_budimank?style=social)
 
 ![](https://komarev.com/ghpvc/?username=aziz0519)
 ---
