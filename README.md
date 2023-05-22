@@ -5,8 +5,11 @@
 * I'm currently open to opportunities in the Data Science and Analytics field and constantly updating this portfolio with new content. I have recently completed an Advanced level specialization from Coursera on Practical Data Science in the AWS Cloud to gain exposure to AWS Data Science ecosystem
 * I'm expanding my programming skills to other areas such as front-end web applications using the MERN Stack as well as DevOps tools such as Jenkins, Docker and Kubernetes. I'm also developing my proficiency in leveraging low-code tools such as Power Automate for Robotic Process Automation (RPA) to automate manual and repetitive tasks on daily office applications
 
+<a href="https://www.buymeacoffee.com/azizbudiman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+
 #### Follow me on LinkedIn and Medium! 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/azizbudiman)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azizbudiman/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](http://www.medium.com/@azizbudiman)
 
 ![](https://komarev.com/ghpvc/?username=aziz0519)
