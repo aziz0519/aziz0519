@@ -54,4 +54,6 @@
 
 #### IDE, Version Control and DevOps
  [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,git,jenkins,docker,kubernetes&perline=3)](https://skillicons.dev)
+ 
+ [![Aziz Budiman Medium](https://github-readme-medium.vercel.app/?username=azizbudiman&limit=3)](https://medium.com/@azizbudiman)
 
