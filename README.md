@@ -8,7 +8,7 @@
 <a href="https://www.buymeacoffee.com/azizbudiman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
-#### Let's connect on LinkedIn and Medium! 
+#### Let's connect on LinkedIn, Medium and Twitter! 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azizbudiman/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](http://www.medium.com/@azizbudiman)
 ![Twitter Follow](https://img.shields.io/twitter/follow/aziz_budimank?style=social)
