@@ -29,7 +29,7 @@
 | YouTube Clone Using React JS and Rapid API | [🔗](https://github.com/aziz0519/YouTube-Clone-Project-ReactJS) |
 | HR Analytics Dashboard in Tableau | [🔗](https://public.tableau.com/app/profile/azizbk1919/viz/HRDashboard2_15933573880420/Overview) |
 
-[![Aziz Budiman Medium](https://github-readme-medium.vercel.app/?username=azizbudiman&limit=2&bg=red&text=green)](https://medium.com/@azizbudiman)
+[![Aziz Budiman Medium](https://github-readme-medium.vercel.app/?username=azizbudiman&limit=2&bg=black&text=white)](https://medium.com/@azizbudiman)
 
 ---
 ### My Professional and Freelance Tech Stack
