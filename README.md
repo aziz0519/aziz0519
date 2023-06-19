@@ -17,7 +17,7 @@
 
 ![](https://komarev.com/ghpvc/?username=aziz0519)
 ---
-### Portfolio
+# Portfolio
 
 | Project Name | Repo |
 | ------ | ---- |
@@ -33,7 +33,7 @@
 [![Aziz Budiman Medium](https://github-readme-medium.vercel.app/?username=azizbudiman&limit=2&bg=black&text=white)](https://medium.com/@azizbudiman)
 
 ---
-### My Professional and Freelance Tech Stack
+# My Professional and Freelance Tech Stack
 
 <p float="left">
 <img style="padding:5px;" align="center" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"/>
