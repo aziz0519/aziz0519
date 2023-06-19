@@ -57,4 +57,7 @@
 
 #### IDE, Version Control and DevOps
  [![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,git,jenkins,docker,kubernetes&perline=3)](https://skillicons.dev)
+
+
+![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=aziz0519&show_icons=true&theme=tokyonight)
  
