@@ -62,3 +62,5 @@
 ![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=aziz0519&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aziz0519&layout=donut&theme=tokyonight)](https://github.com/aziz0519/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aziz0519&theme=tokyonight)](https://git.io/streak-stats)
