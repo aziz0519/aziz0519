@@ -4,7 +4,7 @@
 * I have over 7 years of experience working with data analytics and engineering in various industries in banking, consumer technology, and public service
 * My interests lie in applications of Artificial Intelligence in real-world use cases. The rise of AI platforms such as ChatGPT, Otter.ai, and copy.ai are game-changers in daily work productivity
 * I'm currently open to opportunities in the Data Science and Analytics field and constantly updating this portfolio with new content.
-* I'm expanding my programming skills to other areas such as front-end web applications and DevOps tools such as Jenkins, Docker, and Kubernetes. I'm also developing my proficiency in leveraging low-code tools such as Power Automate for Robotic Process Automation (RPA) to automate manual and repetitive tasks on daily office applications
+* I'm expanding my programming skills to other areas such as front-end web applications and DevOps tools such as Jenkins, Docker, and Kubernetes. I'm also developing my proficiency in leveraging low-code tools such as Power Automate to simplify manual and repetitive tasks on daily office applications
 
 [![bmc](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](http://www.buymeacoffee.com/azizbudiman)
 
@@ -76,11 +76,15 @@
 ![CF](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 
-#### IDE
+#### IDE and Text Editors
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![NP+](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
+
+#### Version Control and CI/CD
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 # Github Stats
 ![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=aziz0519&show_icons=true&theme=tokyonight)
