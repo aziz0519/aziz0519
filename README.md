@@ -4,7 +4,7 @@
 * I have over 7 years of experience working with data analytics and engineering in various industries in banking, consumer technology, and public service
 * My interests lie in applications of Artificial Intelligence in real-world use cases. The rise of AI platforms such as ChatGPT, Otter.ai, and copy.ai are game-changers in daily work productivity
 * I'm currently open to opportunities in the Data Science and Analytics field and constantly updating this portfolio with new content.
-* I'm expanding my programming skills to other areas such as front-end web applications and DevOps tools such as Jenkins, Docker, and Kubernetes. I'm also developing my proficiency in leveraging low-code tools such as Power Automate to simplify manual and repetitive tasks on daily office applications
+* I'm also developing my proficiency in leveraging low-code tools such as Power Automate and Notion to simplify manual and repetitive tasks on daily office applications
 
 [![bmc](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](http://www.buymeacoffee.com/azizbudiman)
 
@@ -22,20 +22,19 @@
 ---
 # Portfolio
 
-| Project Name | Repo |
+| Project Name | Link |
 | ------ | ---- |
-| Prediction of cryptocurrency price movement using NLP of Token Official Whitepapers | [🔗](https://github.com/athkpro/ProjectWhitePaper) |
-| Prediction of SG AirBnB property price using XGBoost Regression Model | [🔗](https://github.com/aziz0519/airbnbpropertypricing) |
-| End-to-End Model Deployment using Spark ML | [🔗](https://github.com/aziz0519/sparkml-model-deployment) |
-| Web3 Crypto Exchange Decentralised App | [🔗](https://github.com/aziz0519/cryto-exchange-dapp-project) |
-| E-Commerce Website Using Sanity CMS and Stripe API | [🔗](https://github.com/aziz0519/ecommerce_project_sanity_stripe) |
-| YouTube Clone Using React JS and Rapid API | [🔗](https://github.com/aziz0519/YouTube-Clone-Project-ReactJS) |
-| HR Analytics Dashboard in Tableau | [🔗](https://public.tableau.com/app/profile/azizbk1919/viz/HRDashboard2_15933573880420/Overview) |
+| Forecasting and Anomaly Detection of Starbuck Stock Prices |  [🔗](https://medium.com/data-and-beyond/forecasting-anomaly-detection-of-starbucks-stock-prices-using-tensorflow-and-adtk-8b8cdafc66d6)  |
+| Text Analytics of ChatGPT Reddit headlines using Vader and Gensim | [🔗](https://medium.com/data-and-beyond/sentiment-analysis-and-topic-modelling-of-reddit-headlines-using-vader-and-gensim-a3ecf2062815) |
+| Visual Analysis of Equity Distribution of Tech Stock using NetworkX and Sankey Diagram | [🔗](https://medium.com/data-and-beyond/visual-analysis-of-djia-equity-index-distribution-using-networkx-and-sankey-diagram-1b44d6022d) |
+| UEFA Champions League Dashboard in Tableau | [🔗](https://public.tableau.com/app/profile/azizbk1919/viz/UEFAChampionsLeagueDashboard_16892291463720/Dashboard1) |
+| IBM HR Dashboard in Tableau | [🔗](https://public.tableau.com/app/profile/azizbk1919/viz/HRDashboard2_15933573880420/Overview) |
+
 
 [![Aziz Budiman Medium](https://github-readme-medium.vercel.app/?username=azizbudiman&limit=2&bg=black&text=white)](https://medium.com/@azizbudiman)
 
 ---
-# My Professional and Freelance Tech Stack
+# My Professional Tech Stack
 
 #### Programming Languages and Frameworks
 ![Py](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -45,11 +44,9 @@
 ![SK](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
-![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TF](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 #### Big Data Ecosystem
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
@@ -75,17 +72,6 @@
 #### Design
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
-#### Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Nextjs](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 #### Project Management and Workflow
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
