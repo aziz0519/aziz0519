@@ -31,7 +31,7 @@
 | IBM HR Dashboard in Tableau | [🔗](https://public.tableau.com/app/profile/azizbk1919/viz/HRDashboard2_15933573880420/Overview) |
 
 
-[![Aziz Budiman Medium](https://github-readme-medium.vercel.app/?username=azizbudiman&limit=2&bg=black&text=white)](https://medium.com/@azizbudiman)
+[![Aziz Budiman Medium](https://github-readme-medium.vercel.app/?username=azizbudiman&limit=2&bg=222f2e&text=ff0000)](https://medium.com/@azizbudiman)
 
 ---
 # My Professional Tech Stack
