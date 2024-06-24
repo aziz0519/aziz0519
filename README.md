@@ -2,7 +2,7 @@
 
 * Thank you for visiting my Github portfolio. I am a former Math and Science teacher turned Data Analytics and Engineering practitioner 
 * I have over 8 years of experience working with data science and big data analytics in various industries in finance, management consulting, and public service
-* My interests lie in applications of Artificial Intelligence in real-world use cases. The rise of AI platforms such as ChatGPT, Otter.ai, and copy.ai are game-changers in daily work productivity
+* My interests lie in applications of Artificial Intelligence in real-world use cases. The rise of Generative AI platforms such as ChatGPT, Claude, and Julius.ai are game-changers in daily work productivity
 * I'm constantly updating this portfolio with new content and learning new stuff daily.
 * I'm also developing my proficiency in leveraging low-code tools such as Power Automate and Notion to simplify manual and repetitive tasks on daily office applications
 
