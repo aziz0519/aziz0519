@@ -25,7 +25,7 @@
 | Project Name | Link |
 | ------ | ---- |
 | Forecasting and Anomaly Detection of Starbucks Stock Prices |  [🔗](https://medium.com/data-and-beyond/forecasting-anomaly-detection-of-starbucks-stock-prices-using-tensorflow-and-adtk-8b8cdafc66d6)  |
-| Text Analytics of ChatGPT Reddit headlines using Vader and Gensim | [🔗](https://medium.com/data-and-beyond/sentiment-analysis-and-topic-modelling-of-reddit-headlines-using-vader-and-gensim-a3ecf2062815) |
+| Generative Article Summarizer using Rapid API, Redux and Vite.JS | [🔗](https://azizbudiman-ai-summarizer.netlify.app/) |
 | Visual Analysis of Equity Distribution of Tech Stock using NetworkX and Sankey Diagram | [🔗](https://medium.com/data-and-beyond/visual-analysis-of-djia-equity-index-distribution-using-networkx-and-sankey-diagram-1b44d6022d) |
 | UEFA Champions League Dashboard in Tableau | [🔗](https://public.tableau.com/app/profile/azizbk1919/viz/UEFAChampionsLeagueDashboard_16892291463720/Dashboard1) |
 | IBM HR Dashboard in Tableau | [🔗](https://public.tableau.com/app/profile/azizbk1919/viz/HRDashboard2_15933573880420/Overview) |
