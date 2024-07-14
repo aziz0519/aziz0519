@@ -35,6 +35,8 @@
 ---
 # My Professional Tech Stack
 
+![](https://github.com/aziz0519/Badges/deep-learning-specialization.png)
+
 
 #### Programming Languages and Frameworks
 ![Py](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
