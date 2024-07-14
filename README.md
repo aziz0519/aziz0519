@@ -35,7 +35,7 @@
 ---
 # My Professional Tech Stack
 
-![deep-learning](https://github.com/aziz0519/certifications-and-badges/Badges/deep-learning-specialization.png)
+![deep-learning](https://github.com/aziz0519/certifications-and-badges/blob/main/Badges/deep-learning-specialization.png)
 
 
 #### Programming Languages and Frameworks
