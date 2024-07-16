@@ -31,8 +31,8 @@
 ---
 # My Professional Tech Stack
 
-![deep-learning](https://github.com/aziz0519/certifications-and-badges/blob/main/Badges/deep-learning-specialization.png)
-![advanced-datascience](https://github.com/aziz0519/certifications-and-badges/blob/main/Badges/advanced-data-science-specialization.1.png)
+[![deep-learning](https://github.com/aziz0519/certifications-and-badges/blob/main/Badges/deep-learning-specialization.png)](https://www.coursera.org/account/accomplishments/specialization/B5PAT6WW9VY4)
+[![advanced-datascience](https://github.com/aziz0519/certifications-and-badges/blob/main/Badges/advanced-data-science-specialization.1.png)](https://www.coursera.org/account/accomplishments/specialization/KAUSLMPC7ZZW)
 
 #### Programming Languages and Frameworks
 ![Py](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
