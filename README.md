@@ -6,14 +6,10 @@
 * I'm constantly updating this portfolio with new content and learning new stuff daily.
 * I'm also developing my proficiency in leveraging low-code tools such as Power Automate and Notion to simplify manual and repetitive tasks on daily office applications
 
-[![bmc](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](http://www.buymeacoffee.com/azizbudiman)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X6LSCO4)
 
 #### Let's connect! 🤝
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azizbudiman/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](http://www.medium.com/@azizbudiman)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](http://www.twitter.com/sigmaindata)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](http://www.kaggle.com/skyzizou86/)
 [![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](http://echoesofalgebra.wordpress.com)
 [![Academia](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)](https://suss-sg.academia.edu/azizbudiman)
