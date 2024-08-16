@@ -31,7 +31,7 @@
 ---
 # My Professional Tech Stack
 
-[![advanced-datascience](https://github.com/aziz0519/certifications-and-badges/blob/main/Badges/advanced-data-science-specialization.1.png)](https://www.coursera.org/account/accomplishments/specialization/KAUSLMPC7ZZW)
+[![advanced-datascience](https://github.com/aziz0519/certifications-and-badges/blob/main/Badges/advanced-data-science-specialization.1.png)](https://www.credly.com/badges/bce8c6ce-93c2-462b-bae3-f71da3e341f9)
 [![aws-cloud](https://github.com/aziz0519/certifications-and-badges/blob/main/Badges/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/88b7d250-3472-4b93-afa2-5ccb2f8e92c5)
 
 #### Programming Languages and Frameworks
