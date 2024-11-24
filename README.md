@@ -33,8 +33,8 @@
 
 [![advanced-datascience](https://github.com/aziz0519/certifications-and-badges/blob/main/Badges/advanced-data-science-specialization.1.png)](https://www.credly.com/badges/bce8c6ce-93c2-462b-bae3-f71da3e341f9)
 [![deep-learning](https://github.com/aziz0519/certifications-and-badges/blob/main/Badges/deep-learning-specialization.png)](https://www.credly.com/badges/e3c2c28d-9c23-4a32-a8a0-142c2e1489e0)
-[![aws-cloud](https://github.com/aziz0519/certifications-and-badges/blob/main/Badges/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/88b7d250-3472-4b93-afa2-5ccb2f8e92c5)
 [![aws-saa](https://github.com/aziz0519/certifications-and-badges/blob/main/Badges/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/85f2f787-c1fd-452b-b1d1-56300d2e7c06/public_url)
+
 #### Programming Languages and Frameworks
 ![Py](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
