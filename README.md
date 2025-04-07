@@ -1,8 +1,8 @@
 # Hello World! I'm Aziz Budiman from sunny Singapore 👋
 
 * Thank you for visiting my Github portfolio. I am a former Math and Science teacher turned Data Analytics and Engineering practitioner 
-* I have over 8 years of experience working with data science and big data analytics in various industries in finance, management consulting, and public service
-* My interests lie in applications of Artificial Intelligence in real-world use cases. The rise of Generative AI platforms such as ChatGPT, Claude, and Julius.ai are game-changers in daily work productivity
+* I have over 10 years of experience working with data science and big data analytics in various industries in banking operations,law enforcement, and government agencies
+* My interests lie in applications of Artificial Intelligence in real-world use cases. The rise of Generative AI platforms such as Perplexity, DeepSeek, and Julius.ai are game-changers in daily work productivity
 * I'm constantly updating this portfolio with new content and learning new stuff daily.
 * I'm also developing my proficiency in leveraging low-code tools such as Power Automate and Notion to simplify manual and repetitive tasks on daily office applications
 
@@ -71,22 +71,24 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![PBi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 
-#### SaaS Cloud and Hosting
+#### SaaS Cloud
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+![Databricks](https://a11ybadges.com/badge?logo=databricks)
 
 #### Project Management and Workflow
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![CF](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
-#### Version Control and CI/CD
+#### DevOps
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 # Github Stats
 ![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=aziz0519&show_icons=true&theme=tokyonight)
