@@ -1,6 +1,6 @@
 # Hello World! I'm Aziz Budiman from sunny Singapore 👋
 
-* Thank you for visiting my Github portfolio. I am a former Math and Science teacher turned Analytics Technical Lead 
+* Thank you for visiting my Github portfolio. I am a former Math and Science teacher turned Data Science & AI Lead 
 * I have over 10 years of experience working with data analytics, business intelligence, and machine learning at various industries in banking operations,consumer technology, and government agencies
 * My interests lie in applications of Artificial Intelligence in real-world use cases. The rise of Generative AI platforms such as Perplexity, DeepSeek, and Julius.ai are game-changers in daily work productivity
 * I'm constantly updating this portfolio with new content and learning new stuff daily.
