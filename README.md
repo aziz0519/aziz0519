@@ -47,7 +47,7 @@
 ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
 
 # Github Stats
-![Aziz's GitHub stats](https://github-readme-stats.vercel.app/api?username=aziz0519&show_icons=true&theme=onedark)
+![Aziz's GitHub stats](https://github-stats-extended.vercel.app/api?username=aziz0519&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aziz0519)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=aziz0519)](https://github.com/anuraghazra/github-readme-stats)
 
