@@ -16,19 +16,6 @@
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/learner/aziz-budiman)
 
 ---
-# Portfolio
-
-| Project Name | Link |
-| ------ | ---- |
-| Forecasting and Anomaly Detection of Starbucks Stock Prices |  [🔗](https://medium.com/data-and-beyond/forecasting-anomaly-detection-of-starbucks-stock-prices-using-tensorflow-and-adtk-8b8cdafc66d6)  |
-| Generative Article Summarizer using Rapid API, Redux and Vite.JS | [🔗](https://azizbudiman-ai-summarizer.netlify.app/) |
-| Visual Analysis of Equity Distribution of Tech Stock using NetworkX and Sankey Diagram | [🔗](https://medium.com/data-and-beyond/visual-analysis-of-djia-equity-index-distribution-using-networkx-and-sankey-diagram-1b44d6022d) |
-| UEFA Champions League Dashboard in Tableau | [🔗](https://public.tableau.com/app/profile/azizbk1919/viz/UEFAChampionsLeagueDashboard_16892291463720/Dashboard1) |
-| IBM HR Dashboard in Tableau | [🔗](https://public.tableau.com/app/profile/azizbk1919/viz/HRDashboard2_15933573880420/Overview) |
-
-
-
----
 # My Professional Tech Stack
 
 [![advanced-datascience](https://github.com/aziz0519/certifications-and-badges/blob/main/Badges/advanced-data-science-specialization.1.png)](https://www.credly.com/badges/bce8c6ce-93c2-462b-bae3-f71da3e341f9)
