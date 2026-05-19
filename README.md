@@ -1,6 +1,6 @@
 # Hello World! I'm Aziz Budiman from sunny Singapore 👋
 
-* Thank you for visiting my Github portfolio. I am a former Math educator turned Digital Solutions & Innovation Leader 
+* Thank you for visiting my Github portfolio. I am a former Math educator turned Digital Innovation & Solutions Leader 
 * I have over 10 years of experience working with Data Analytics, Data/AI Governance, Cloud Architecture, Digital Transformation & Change Management at companies such as Mastercard Inc, Accenture SEA and DBS Bank
 * My interests lie in applications of Artificial Intelligence in real-world use cases. The rise of Generative & Agentic AI platforms are gamechangers in daily work productivity
 * I'm constantly updating this portfolio with new content and learning new stuff daily.
