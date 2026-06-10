@@ -4,7 +4,7 @@
 * I have over 10 years of experience working with Data Analytics, Data/AI Governance, Cloud Architecture, Digital Transformation & Change Management at companies such as Mastercard Inc, Accenture SEA and DBS Bank
 * My interests lie in applications of Artificial Intelligence in real-world use cases. The rise of Generative & Agentic AI platforms are gamechangers in daily work productivity
 * I'm constantly updating this portfolio with new content and learning new stuff daily.
-* I'm also developing my proficiency in leveraging low-code tools such as Power Platform, Make and Notion to simplify manual and repetitive tasks on daily office applications
+* I'm also developing my proficiency in leveraging low-code tools such as Power Platform, n8n and Notion to simplify manual and repetitive tasks on daily office applications
 
 
 #### Let's connect! 🤝
