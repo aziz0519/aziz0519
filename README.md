@@ -18,9 +18,11 @@
 
 | Name | Type | Description |
 | --- | --- | --- |
-| Data Analytics Platform in AWS | Reference Architecture | A one-stop analytics platform for senior leaders and middle managers to build reports and extract actionable insights from a single source of truth | 
-| Agentic AI Blueprint for BSFI | Reference Architecture | A blueprint for designing a production-grade multi-agent system for self-service banking operations |
-| AI Research Agent | Application | An application using Angular frontend and Spring backend to fetch top trending posts on AI from source such as Hacker News and Reddit |
+| [Enterprise Data Hub in AWS](https://github.com/aziz0519/reference-architectures/blob/main/analytics/AWS_EnterpriseDataHub.md) | Reference Architecture | A one-stop analytics platform for senior leaders and middle managers to build reports and extract actionable insights from a single source of truth | 
+| [Agentic AI Blueprint for BSFI](https://github.com/aziz0519/reference-architectures/blob/main/ai/Agentic_AI_Blueprint.md) | Reference Architecture | A blueprint for designing a production-grade multi-agent system for self-service banking operations |
+| [AI Research Agent](https://github.com/aziz0519/ai-research-agent) | Application | An application using Angular frontend and Spring backend to fetch top trending posts on AI from source such as Hacker News and Reddit |
+| [AI Governance Toolkit](https://github.com/aziz0519/ai-governance-toolkit) | Python SDK | A toolkit for developers to evaluate LLM models for bias outputs for loan approval process |
+| [AI Agent Evals](https://github.com/aziz0519/ai-agent-evaluation) | Application | A platform for users to evaluate AI Agent behavior using DeepEval |
 
 ## My Professional Tech Stack
 
