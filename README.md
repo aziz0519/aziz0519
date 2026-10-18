@@ -14,7 +14,15 @@
 [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)](https://www.coursera.org/learner/aziz-budiman)
 
 ---
-# My Professional Tech Stack
+## Projects
+
+| Name | Type | Description |
+| --- | --- | --- |
+| Data Analytics Platform in AWS | Reference Architecture | A one-stop analytics platform for senior leaders and middle managers to build reports and extract actionable insights from a single source of truth | 
+| Agentic AI Blueprint for BSFI | Reference Architecture | A blueprint for designing a production-grade multi-agent system for self-service banking operations |
+| AI Research Agent | Application | An application using Angular frontend and Spring backend to fetch top trending posts on AI from source such as Hacker News and Reddit |
+
+## My Professional Tech Stack
 
 [![advanced-datascience](https://github.com/aziz0519/certifications-and-badges/blob/main/Badges/advanced-data-science-specialization.1.png)](https://www.credly.com/badges/bce8c6ce-93c2-462b-bae3-f71da3e341f9)
 [![deep-learning](https://github.com/aziz0519/certifications-and-badges/blob/main/Badges/deep-learning-specialization.png)](https://www.credly.com/badges/e3c2c28d-9c23-4a32-a8a0-142c2e1489e0)
