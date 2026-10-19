@@ -19,9 +19,9 @@
 | Name | Type | Description |
 | --- | --- | --- |
 | [Enterprise Data Hub in AWS](https://github.com/aziz0519/reference-architectures/blob/main/analytics/AWS_EnterpriseDataHub.md) | Reference Architecture | A one-stop analytics platform for senior leaders and middle managers to build reports and extract actionable insights from a single source of truth |
-| [AI Case Management System](https://github.com/aziz0519/reference-architectures/blob/main/ai/AWS_GenAI_Knowledge_Assistant.md) | Reference Architecture | A GenAI application in AWS that classifies cases, draft replies for simple queries and escalates edge cases |
+| [AI Case Management System](https://github.com/aziz0519/reference-architectures/blob/main/ai/AWS_GenAI_Knowledge_Assistant.md) | Reference Architecture | A GenAI application in AWS that classifies cases, drafts email replies for simple queries and escalates edge cases to Customer Service Agents |
 | [Agentic AI Blueprint for BSFI](https://github.com/aziz0519/reference-architectures/blob/main/ai/Agentic_AI_Blueprint.md) | Reference Architecture | A blueprint for designing a production-grade multi-agent system for self-service banking operations |
-| [AI Research Agent](https://github.com/aziz0519/ai-research-agent) | Application | An application using Angular frontend and Spring backend to fetch top trending posts on AI from source such as Hacker News and Reddit |
+| [AI Research Agent](https://github.com/aziz0519/ai-research-agent) | Application | An application using Angular frontend and Spring backend to fetch top trending posts on AI from sources such as Hacker News, Reddit and Product Hunt |
 | [AI Governance Toolkit](https://github.com/aziz0519/ai-governance-toolkit) | Python SDK | A toolkit for developers to evaluate LLM models for bias outputs for loan approval process |
 | [AI Agent Evals](https://github.com/aziz0519/ai-agent-evaluation) | Application | A platform for users to evaluate AI Agent behavior using DeepEval |
 
