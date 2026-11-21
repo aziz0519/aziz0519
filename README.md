@@ -27,10 +27,6 @@
 
 ## My Professional Tech Stack
 
-[![advanced-datascience](https://github.com/aziz0519/certifications-and-badges/blob/main/Badges/advanced-data-science-specialization.1.png)](https://www.credly.com/badges/bce8c6ce-93c2-462b-bae3-f71da3e341f9)
-[![deep-learning](https://github.com/aziz0519/certifications-and-badges/blob/main/Badges/deep-learning-specialization.png)](https://www.credly.com/badges/e3c2c28d-9c23-4a32-a8a0-142c2e1489e0)
-[![aws-saa](https://github.com/aziz0519/certifications-and-badges/blob/main/Badges/aws-certified-solutions-architect-associate.png)](https://www.credly.com/badges/85f2f787-c1fd-452b-b1d1-56300d2e7c06/public_url)
-
 
 #### Programming Languages and Frameworks
 ![Py](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -73,7 +69,7 @@
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-49728B?style=for-the-badge&logo=jenkins&logoColor=white)
+![Cloudbees](https://img.shields.io/badge/cloudbees-%231997B5.svg?style=for-the-badge&logo=cloudbees&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-3069DE?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
