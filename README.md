@@ -57,7 +57,7 @@
 ![PBi](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![Drawio](https://img.shields.io/badge/drawio-%23F08705.svg?style=for-the-badge&logo=diagrams.net&logoColor=white)
 
-#### Cloud / ETL
+#### Hyperscalers and Enterprise Data Platforms
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
